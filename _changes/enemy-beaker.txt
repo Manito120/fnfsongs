@@ -1,0 +1,6 @@
+mods/data/enemy-beaker/enemy-beaker.json
+mods/data/enemy-beaker/events.json
+mods/songs/enemy-beaker/Voices.ogg
+mods/songs/enemy-beaker/Inst.ogg
+mods/songs/enemy-beaker/voices.ogg
+mods/songs/enemy-beaker/inst.ogg

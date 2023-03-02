@@ -1,0 +1,8 @@
+mods/data/lockjaw/events.json
+mods/data/lockjaw/lockjaw-fucked.json
+mods/data/lockjaw/lockjaw-hard.json
+mods/data/lockjaw/lockjaw.json
+mods/songs/lockjaw/Voices.ogg
+mods/songs/lockjaw/Inst.ogg
+mods/songs/lockjaw/voices.ogg
+mods/songs/lockjaw/inst.ogg

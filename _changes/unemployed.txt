@@ -1,0 +1,10 @@
+mods/data/unemployed/dialogue.json
+mods/data/unemployed/events.json
+mods/data/unemployed/unemployed-easy.json
+mods/data/unemployed/unemployed-erect.json
+mods/data/unemployed/unemployed-hard.json
+mods/data/unemployed/unemployed.json
+mods/songs/unemployed/Voices.ogg
+mods/songs/unemployed/Inst.ogg
+mods/songs/unemployed/voices.ogg
+mods/songs/unemployed/inst.ogg

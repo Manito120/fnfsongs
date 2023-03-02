@@ -1,0 +1,9 @@
+mods/data/exhilaration/dialogue.json
+mods/data/exhilaration/events.json
+mods/data/exhilaration/exhilaration-erect.json
+mods/data/exhilaration/exhilaration-hard.json
+mods/data/exhilaration/exhilaration.json
+mods/songs/exhilaration/Voices.ogg
+mods/songs/exhilaration/Inst.ogg
+mods/songs/exhilaration/voices.ogg
+mods/songs/exhilaration/inst.ogg

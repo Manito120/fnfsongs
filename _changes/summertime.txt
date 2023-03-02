@@ -1,0 +1,6 @@
+mods/data/summertime/summertime-hard.json
+mods/data/summertime/summertime.json
+mods/songs/summertime/Voices.ogg
+mods/songs/summertime/Inst.ogg
+mods/songs/summertime/voices.ogg
+mods/songs/summertime/inst.ogg

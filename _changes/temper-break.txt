@@ -1,0 +1,7 @@
+mods/data/temper-break/dialogue.json
+mods/data/temper-break/events.json
+mods/data/temper-break/temper-break-hard.json
+mods/songs/temper-break/Voices.ogg
+mods/songs/temper-break/Inst.ogg
+mods/songs/temper-break/voices.ogg
+mods/songs/temper-break/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/cookies/cookies.json
+mods/data/cookies/events.json
+mods/songs/cookies/Voices.ogg
+mods/songs/cookies/Inst.ogg
+mods/songs/cookies/voices.ogg
+mods/songs/cookies/inst.ogg

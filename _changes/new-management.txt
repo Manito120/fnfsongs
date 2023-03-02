@@ -1,0 +1,6 @@
+mods/data/new-management/events.json
+mods/data/new-management/new-management.json
+mods/songs/new-management/Voices.ogg
+mods/songs/new-management/Inst.ogg
+mods/songs/new-management/voices.ogg
+mods/songs/new-management/inst.ogg

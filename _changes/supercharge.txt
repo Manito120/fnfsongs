@@ -1,0 +1,7 @@
+mods/data/supercharge/events.json
+mods/data/supercharge/supercharge-erect.json
+mods/data/supercharge/supercharge-hard.json
+mods/songs/supercharge/Voices.ogg
+mods/songs/supercharge/Inst.ogg
+mods/songs/supercharge/voices.ogg
+mods/songs/supercharge/inst.ogg

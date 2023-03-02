@@ -1,0 +1,6 @@
+mods/data/full-fives/events.json
+mods/data/full-fives/full-fives.json
+mods/songs/full-fives/Voices.ogg
+mods/songs/full-fives/Inst.ogg
+mods/songs/full-fives/voices.ogg
+mods/songs/full-fives/inst.ogg

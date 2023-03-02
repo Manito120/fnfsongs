@@ -1,0 +1,10 @@
+mods/data/reckless/dialogue.json
+mods/data/reckless/enddialogue.json
+mods/data/reckless/reckless-easy.json
+mods/data/reckless/reckless-erect.json
+mods/data/reckless/reckless-hard.json
+mods/data/reckless/reckless.json
+mods/songs/reckless/Voices.ogg
+mods/songs/reckless/Inst.ogg
+mods/songs/reckless/voices.ogg
+mods/songs/reckless/inst.ogg
