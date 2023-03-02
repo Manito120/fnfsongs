@@ -1,0 +1,5 @@
+mods/data/danger-classic/danger-classic.json
+mods/songs/danger-classic/Voices.ogg
+mods/songs/danger-classic/Inst.ogg
+mods/songs/danger-classic/voices.ogg
+mods/songs/danger-classic/inst.ogg

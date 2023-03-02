@@ -1,0 +1,6 @@
+mods/data/summon-meme/events.json
+mods/data/summon-meme/summon-meme.json
+mods/songs/summon-meme/Voices.ogg
+mods/songs/summon-meme/Inst.ogg
+mods/songs/summon-meme/voices.ogg
+mods/songs/summon-meme/inst.ogg

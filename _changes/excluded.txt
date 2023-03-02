@@ -1,0 +1,5 @@
+mods/data/excluded/excluded.json
+mods/songs/excluded/Voices.ogg
+mods/songs/excluded/Inst.ogg
+mods/songs/excluded/voices.ogg
+mods/songs/excluded/inst.ogg

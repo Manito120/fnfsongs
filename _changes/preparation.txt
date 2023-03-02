@@ -1,0 +1,6 @@
+mods/data/preparation/preparation-hard.json
+mods/data/preparation/preparation.json
+mods/songs/preparation/Voices.ogg
+mods/songs/preparation/Inst.ogg
+mods/songs/preparation/voices.ogg
+mods/songs/preparation/inst.ogg

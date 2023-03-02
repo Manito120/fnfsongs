@@ -1,0 +1,5 @@
+mods/data/petrify/petrify.json
+mods/songs/petrify/Voices.ogg
+mods/songs/petrify/Inst.ogg
+mods/songs/petrify/voices.ogg
+mods/songs/petrify/inst.ogg

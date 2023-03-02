@@ -1,0 +1,5 @@
+mods/data/death-wish/death-wish.json
+mods/songs/death-wish/Voices.ogg
+mods/songs/death-wish/Inst.ogg
+mods/songs/death-wish/voices.ogg
+mods/songs/death-wish/inst.ogg

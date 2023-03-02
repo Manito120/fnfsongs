@@ -1,0 +1,6 @@
+mods/data/w00f/w00f-hard.json
+mods/data/w00f/w00f.json
+mods/songs/w00f/Voices.ogg
+mods/songs/w00f/Inst.ogg
+mods/songs/w00f/voices.ogg
+mods/songs/w00f/inst.ogg

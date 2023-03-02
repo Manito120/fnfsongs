@@ -1,0 +1,5 @@
+mods/data/sighting/sighting.json
+mods/songs/sighting/Voices.ogg
+mods/songs/sighting/Inst.ogg
+mods/songs/sighting/voices.ogg
+mods/songs/sighting/inst.ogg

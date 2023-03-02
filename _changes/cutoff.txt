@@ -1,0 +1,5 @@
+mods/data/cutoff/cutoff.json
+mods/songs/cutoff/Voices.ogg
+mods/songs/cutoff/Inst.ogg
+mods/songs/cutoff/voices.ogg
+mods/songs/cutoff/inst.ogg

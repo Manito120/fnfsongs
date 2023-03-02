@@ -1,0 +1,5 @@
+mods/data/roasted-beef/roasted-beef.json
+mods/songs/roasted-beef/Voices.ogg
+mods/songs/roasted-beef/Inst.ogg
+mods/songs/roasted-beef/voices.ogg
+mods/songs/roasted-beef/inst.ogg

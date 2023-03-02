@@ -1,0 +1,5 @@
+mods/data/shadow/shadow-hard.json
+mods/songs/shadow/Voices.ogg
+mods/songs/shadow/Inst.ogg
+mods/songs/shadow/voices.ogg
+mods/songs/shadow/inst.ogg

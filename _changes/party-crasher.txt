@@ -1,0 +1,6 @@
+mods/data/party-crasher/party-crasher-hard.json
+mods/data/party-crasher/party-crasher.json
+mods/songs/party-crasher/Voices.ogg
+mods/songs/party-crasher/Inst.ogg
+mods/songs/party-crasher/voices.ogg
+mods/songs/party-crasher/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/no-escape-emix/no-escape-emix.json
+mods/songs/no-escape-emix/Voices.ogg
+mods/songs/no-escape-emix/Inst.ogg
+mods/songs/no-escape-emix/voices.ogg
+mods/songs/no-escape-emix/inst.ogg

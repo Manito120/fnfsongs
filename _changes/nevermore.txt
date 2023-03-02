@@ -1,0 +1,5 @@
+mods/data/nevermore/nevermore.json
+mods/songs/nevermore/Voices.ogg
+mods/songs/nevermore/Inst.ogg
+mods/songs/nevermore/voices.ogg
+mods/songs/nevermore/inst.ogg

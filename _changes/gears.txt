@@ -1,0 +1,6 @@
+mods/data/gears/gears-hard.json
+mods/data/gears/gears.json
+mods/songs/gears/Voices.ogg
+mods/songs/gears/Inst.ogg
+mods/songs/gears/voices.ogg
+mods/songs/gears/inst.ogg

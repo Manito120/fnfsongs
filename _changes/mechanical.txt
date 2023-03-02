@@ -1,0 +1,6 @@
+mods/data/mechanical/mechanical-hard.json
+mods/data/mechanical/mechanical.json
+mods/songs/mechanical/Voices.ogg
+mods/songs/mechanical/Inst.ogg
+mods/songs/mechanical/voices.ogg
+mods/songs/mechanical/inst.ogg

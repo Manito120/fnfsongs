@@ -1,0 +1,6 @@
+mods/data/summon/events.json
+mods/data/summon/summon.json
+mods/songs/summon/Voices.ogg
+mods/songs/summon/Inst.ogg
+mods/songs/summon/voices.ogg
+mods/songs/summon/inst.ogg

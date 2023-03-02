@@ -1,0 +1,5 @@
+mods/data/female-spotted/female-spotted.json
+mods/songs/female-spotted/Voices.ogg
+mods/songs/female-spotted/Inst.ogg
+mods/songs/female-spotted/voices.ogg
+mods/songs/female-spotted/inst.ogg

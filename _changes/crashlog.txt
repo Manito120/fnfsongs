@@ -1,0 +1,5 @@
+mods/data/crashlog/crashlog.json
+mods/songs/crashlog/Voices.ogg
+mods/songs/crashlog/Inst.ogg
+mods/songs/crashlog/voices.ogg
+mods/songs/crashlog/inst.ogg

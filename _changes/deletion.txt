@@ -1,0 +1,5 @@
+mods/data/deletion/deletion.json
+mods/songs/deletion/Voices.ogg
+mods/songs/deletion/Inst.ogg
+mods/songs/deletion/voices.ogg
+mods/songs/deletion/inst.ogg

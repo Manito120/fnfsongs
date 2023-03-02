@@ -1,0 +1,6 @@
+mods/data/crack/crack-hard.json
+mods/data/crack/crack.json
+mods/songs/crack/Voices.ogg
+mods/songs/crack/Inst.ogg
+mods/songs/crack/voices.ogg
+mods/songs/crack/inst.ogg

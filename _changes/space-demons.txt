@@ -1,0 +1,7 @@
+mods/data/space-demons/not-subtitles.json
+mods/data/space-demons/space-demons-hard.json
+mods/data/space-demons/space-demons.json
+mods/songs/space-demons/Voices.ogg
+mods/songs/space-demons/Inst.ogg
+mods/songs/space-demons/voices.ogg
+mods/songs/space-demons/inst.ogg

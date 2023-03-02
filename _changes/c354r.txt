@@ -1,0 +1,6 @@
+mods/data/c354r/c354r-hard.json
+mods/data/c354r/c354r.json
+mods/songs/c354r/Voices.ogg
+mods/songs/c354r/Inst.ogg
+mods/songs/c354r/voices.ogg
+mods/songs/c354r/inst.ogg

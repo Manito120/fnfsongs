@@ -1,0 +1,5 @@
+mods/data/melatonin/melatonin.json
+mods/songs/melatonin/Voices.ogg
+mods/songs/melatonin/Inst.ogg
+mods/songs/melatonin/voices.ogg
+mods/songs/melatonin/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/cell-from-hell/cell-from-hell-hard.json
+mods/data/cell-from-hell/cell-from-hell.json
+mods/songs/cell-from-hell/Voices.ogg
+mods/songs/cell-from-hell/Inst.ogg
+mods/songs/cell-from-hell/voices.ogg
+mods/songs/cell-from-hell/inst.ogg

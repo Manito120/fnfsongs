@@ -1,0 +1,7 @@
+mods/data/retribution/retribution-hard.json
+mods/data/retribution/retribution.json
+mods/data/retribution/subtitles.json
+mods/songs/retribution/Voices.ogg
+mods/songs/retribution/Inst.ogg
+mods/songs/retribution/voices.ogg
+mods/songs/retribution/inst.ogg

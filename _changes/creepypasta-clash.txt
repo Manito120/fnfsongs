@@ -1,0 +1,5 @@
+mods/data/creepypasta-clash/creepypasta-clash.json
+mods/songs/creepypasta-clash/Voices.ogg
+mods/songs/creepypasta-clash/Inst.ogg
+mods/songs/creepypasta-clash/voices.ogg
+mods/songs/creepypasta-clash/inst.ogg

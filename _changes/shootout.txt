@@ -1,0 +1,5 @@
+mods/data/shootout/shootout.json
+mods/songs/shootout/Voices.ogg
+mods/songs/shootout/Inst.ogg
+mods/songs/shootout/voices.ogg
+mods/songs/shootout/inst.ogg

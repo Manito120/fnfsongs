@@ -1,0 +1,6 @@
+mods/data/spice/spice-hard.json
+mods/data/spice/spice.json
+mods/songs/spice/Voices.ogg
+mods/songs/spice/Inst.ogg
+mods/songs/spice/voices.ogg
+mods/songs/spice/inst.ogg

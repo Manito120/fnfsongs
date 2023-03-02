@@ -1,0 +1,5 @@
+mods/data/summon-emix/summon-emix.json
+mods/songs/summon-emix/Voices.ogg
+mods/songs/summon-emix/Inst.ogg
+mods/songs/summon-emix/voices.ogg
+mods/songs/summon-emix/inst.ogg

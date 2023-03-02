@@ -1,0 +1,4 @@
+mods/songs/other/Voices.ogg
+mods/songs/other/Inst.ogg
+mods/songs/other/voices.ogg
+mods/songs/other/inst.ogg

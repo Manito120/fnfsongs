@@ -1,0 +1,6 @@
+mods/data/tranquility/tranquility-hard.json
+mods/data/tranquility/tranquility.json
+mods/songs/tranquility/Voices.ogg
+mods/songs/tranquility/Inst.ogg
+mods/songs/tranquility/voices.ogg
+mods/songs/tranquility/inst.ogg
