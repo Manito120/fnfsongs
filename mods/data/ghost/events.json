@@ -1,0 +1,103 @@
+{
+    "events": [
+        {
+            "name": "camelliaZoom",
+            "step": 905,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 1149,
+            "args": [3]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 1289,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 1789,
+            "args": [5]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 2814,
+            "args": [1]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3069,
+            "args": [1]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3325,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 3964,
+            "args": [4]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 4094,
+            "args": []
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 4287,
+            "args": [5]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 4349,
+            "args": [1, 1.15]
+        },
+        {
+            "name": "camelliaZoom",
+            "step": 4607,
+            "args": [10]
+        },
+        {
+            "name": "charaAnim",
+            "step": 3384,
+            "args": ["player", "hey"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 3384,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 3512,
+            "args": ["player", "hey"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 3512,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 4408,
+            "args": ["player", "hey"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 4408,
+            "args": ["speaker", "cheer"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 4536,
+            "args": ["player", "hey"]
+        },
+        {
+            "name": "charaAnim",
+            "step": 4536,
+            "args": ["speaker", "cheer"]
+        }]
+}
