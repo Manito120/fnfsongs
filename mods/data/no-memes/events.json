@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "talentless",
+		"player1": "ski-player",
+		"player2": "sky1",
+		"player3": null,
+		"events": [
+			[
+				63300,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sky2"
+					]
+				]
+			],
+			[
+				65700,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sky1"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sky2"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sky3"
+					]
+				]
+			],
+			[
+				124796.875,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sky2"
+					]
+				]
+			],
+			[
+				143996.875,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "No-Memes"
+	}
+}

@@ -1,0 +1,204 @@
+{
+	"dialogue": [
+		{
+			"sound": "sky",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, Ski. Finally you're here!"
+		},
+		{
+			"sound": "ski",
+			"speed": 0.05,
+			"portrait": "ski",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello Sky!"
+		},
+		{
+			"sound": "sky",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Today is the day we get rid of Girlfriend for good!"
+		},
+		{
+			"sound": "sky",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "And YOU are gonna help me!"
+		},
+		{
+			"sound": "ski",
+			"speed": 0.05,
+			"portrait": "ski",
+			"boxState": "normal",
+			"expression": "oop",
+			"text": "Woah, meee?"
+		},
+		{
+			"sound": "sky",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's right! You're gonna do what I taught you and then Boyfriend will be-"
+		},
+		{
+			"sound": "sky",
+			"speed": 0.055,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "S-Ski what're you doing?"
+		},
+		{
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "ski",
+			"boxState": "normal",
+			"expression": "trumpet",
+			"text": ""
+		},
+		{
+			"sound": "sky",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ski, put that away. You need to focu-"
+		},
+		{
+			"sound": "sky",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "*gasp* there she is!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*looking around animation*"
+		},
+		{
+			"sound": "sky",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "This is our chance Ski! Now go!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ski",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*waddles over*"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh? Oh hello cutie!"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*ski starts petting her* Oh??"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Daww, she's petting me! hehe"
+		},
+		{
+			"sound": "sky",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "(Wha-? This isn't what I taught her at all!)"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, that was cute. But Boyfriend kinda needs me rn so I have to go."
+		},
+		{
+			"sound": "ski",
+			"speed": 0.05,
+			"portrait": "ski",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok bye bye"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Seeya!"
+		},
+		{
+			"sound": "sky",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Wha- hey! Ski!! You just let her go!"
+		},
+		{
+			"sound": "ski",
+			"speed": 0.05,
+			"portrait": "ski",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bored now. Wanna sing!"
+		},
+		{
+			"sound": "sky",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "W-You wanna sing?? But what about-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ski",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*puppy eyes*"
+		},
+		{
+			"sound": "sky",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Alright then, if it makes you happy..."
+		}
+	]
+}

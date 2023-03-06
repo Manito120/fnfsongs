@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.095,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Aallright…"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "I think that takes care of just about everything for now"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "I’m gonna pass on my shift."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sefla? Vodeci? Ya’ll here? "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Skabeep"
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "brink",
+			"text": "I swear…"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "brink",
+			"text": "I better be hearing things."
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "brink",
+			"text": "Was that mute NOT enough?"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Lmao look at your wack OC, you look like someone’s kindergarten arts n crafts mistake. Tricky 2.0, look at that color pallet. Yuck."
+		},
+		{
+			"sound": "",
+			"speed": 0.095,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "brink",
+			"text": "What... …did you just say?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep bop!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "…you know we have message logs... …RIGHT?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Bop…?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Yea, that’s it"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Spamming constantly, refusing to speak English, and when you do, you’re toxic?"
+		},
+		{
+			"sound": "",
+			"speed": 0.095,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Heh…..."
+		},
+		{
+			"sound": "",
+			"speed": 0.13,
+			"portrait": "ponko",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "See ya."
+		}
+	]
+}
