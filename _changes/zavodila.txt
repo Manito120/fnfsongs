@@ -1,0 +1,7 @@
+mods/data/zavodila/zavodila-easy.json
+mods/data/zavodila/zavodila-hard.json
+mods/data/zavodila/zavodila.json
+mods/songs/zavodila/Voices.ogg
+mods/songs/zavodila/Inst.ogg
+mods/songs/zavodila/voices.ogg
+mods/songs/zavodila/inst.ogg

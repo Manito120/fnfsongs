@@ -1,0 +1,7 @@
+mods/data/hellclown/hellclown-easy.json
+mods/data/hellclown/hellclown-hard.json
+mods/data/hellclown/hellclown.json
+mods/songs/hellclown/Voices.ogg
+mods/songs/hellclown/Inst.ogg
+mods/songs/hellclown/voices.ogg
+mods/songs/hellclown/inst.ogg
