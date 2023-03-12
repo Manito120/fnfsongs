@@ -1,0 +1,5 @@
+mods/data/termination/termination-hard.json
+mods/songs/termination/Voices.ogg
+mods/songs/termination/Inst.ogg
+mods/songs/termination/voices.ogg
+mods/songs/termination/inst.ogg

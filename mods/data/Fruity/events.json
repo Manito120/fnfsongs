@@ -1,0 +1,18 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "dojo",
+		"player1": "bfkatana",
+		"player2": "nothing",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Fruity"
+	}
+}

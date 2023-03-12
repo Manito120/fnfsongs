@@ -1,4 +1,3 @@
-mods/data/unloaded/events.json
 mods/data/unloaded/unloaded-fucked.json
 mods/data/unloaded/unloaded-hard.json
 mods/songs/unloaded/Voices.ogg

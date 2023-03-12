@@ -1,0 +1,7 @@
+mods/data/milf-neo/milf-neo-easy.json
+mods/data/milf-neo/milf-neo-hard.json
+mods/data/milf-neo/milf-neo.json
+mods/songs/milf-neo/Voices.ogg
+mods/songs/milf-neo/Inst.ogg
+mods/songs/milf-neo/voices.ogg
+mods/songs/milf-neo/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/fruity/events.json
+mods/data/fruity/fruity-hard.json
+mods/data/fruity/fruity-master.json
+mods/songs/fruity/Voices.ogg
+mods/songs/fruity/Inst.ogg
+mods/songs/fruity/voices.ogg
+mods/songs/fruity/inst.ogg

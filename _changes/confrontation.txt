@@ -1,0 +1,5 @@
+mods/data/confrontation/confrontation-hard.json
+mods/songs/confrontation/Voices.ogg
+mods/songs/confrontation/Inst.ogg
+mods/songs/confrontation/voices.ogg
+mods/songs/confrontation/inst.ogg

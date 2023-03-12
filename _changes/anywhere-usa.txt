@@ -1,0 +1,5 @@
+mods/data/anywhere-usa/anywhere-usa-fucked.json
+mods/songs/anywhere-usa/Voices.ogg
+mods/songs/anywhere-usa/Inst.ogg
+mods/songs/anywhere-usa/voices.ogg
+mods/songs/anywhere-usa/inst.ogg
