@@ -1,6 +1,4 @@
-mods/data/expurgation/expurgation-easy.json
 mods/data/expurgation/expurgation-hard.json
-mods/data/expurgation/expurgation.json
 mods/songs/expurgation/Voices.ogg
 mods/songs/expurgation/Inst.ogg
 mods/songs/expurgation/voices.ogg

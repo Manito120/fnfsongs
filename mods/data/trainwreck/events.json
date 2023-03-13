@@ -1,0 +1,156 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "train",
+		"player1": "phank",
+		"player2": "tricky",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Note Tutorial",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				75,
+				[
+					[
+						"karaokelyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				1800,
+				[
+					[
+						"Note Tutorial",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				12150,
+				[
+					[
+						"Play Animation",
+						"hurt",
+						"dad"
+					]
+				]
+			],
+			[
+				27900,
+				[
+					[
+						"Change Character",
+						"dad",
+						"trickychoo"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tricky"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Play Animation",
+						"block",
+						"bf"
+					],
+					[
+						"Play Animation",
+						"attack2",
+						"dad"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Play Animation",
+						"attack2",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"hurt",
+						"bf"
+					]
+				]
+			],
+			[
+				120075,
+				[
+					[
+						"Vignette Fade",
+						"1",
+						"100"
+					]
+				]
+			],
+			[
+				120150,
+				[
+					[
+						"Brain Damage",
+						"",
+						""
+					],
+					[
+						"HUD Alpha",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				129225,
+				[
+					[
+						"HUD Alpha",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Vignette Fade",
+						"1",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"forcedGf": null,
+		"forcedChar": true,
+		"validScore": false,
+		"gfVersion": "gf-train",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Trainwreck"
+	}
+}
