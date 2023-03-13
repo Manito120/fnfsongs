@@ -1,4 +1,3 @@
-mods/weeks/a.json
 mods/weeks/b.json
 mods/weeks/c.json
 mods/weeks/d.json
