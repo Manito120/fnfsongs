@@ -1,0 +1,9 @@
+mods/data/chirumiru/chirumiru-baka.json
+mods/data/chirumiru/chirumiru-hard.json
+mods/data/chirumiru/chirumiru-lunatic.json
+mods/data/chirumiru/chirumiru.json
+mods/data/chirumiru/events.json
+mods/songs/chirumiru/Voices.ogg
+mods/songs/chirumiru/voices.ogg
+mods/songs/chirumiru/Inst.ogg
+mods/songs/chirumiru/inst.ogg

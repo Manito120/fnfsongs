@@ -1,0 +1,14 @@
+mods/data/bombastic/bombastic-master.json
+mods/data/bombastic/events.json
+mods/data/bombastic/mod.txt
+mods/fruity/stages/dojo.json
+mods/fruity/stages/dojo.lua
+mods/fruity/custom_notetypes/Bomb Note.lua
+mods/fruity/custom_notetypes/Slash Note.lua
+mods/fruity/custom_events/Angy Effect.lua
+mods/fruity/custom_events/Angy Effect Change Color.lua
+mods/fruity/sounds/bomb.ogg
+mods/songs/bombastic/Voices.ogg
+mods/songs/bombastic/voices.ogg
+mods/songs/bombastic/Inst.ogg
+mods/songs/bombastic/inst.ogg

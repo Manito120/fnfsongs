@@ -1,0 +1,5 @@
+mods/data/kobayashi/kobayashi-hard.json
+mods/songs/kobayashi/Voices.ogg
+mods/songs/kobayashi/voices.ogg
+mods/songs/kobayashi/Inst.ogg
+mods/songs/kobayashi/inst.ogg

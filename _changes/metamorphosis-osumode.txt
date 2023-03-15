@@ -1,0 +1,7 @@
+mods/data/metamorphosis/metamorphosis-hard.json
+mods/data/metamorphosis/metamorphosis.json
+mods/data/metamorphosis/mod.txt
+mods/songs/metamorphosis/Voices.ogg
+mods/songs/metamorphosis/voices.ogg
+mods/songs/metamorphosis/Inst.ogg
+mods/songs/metamorphosis/inst.ogg

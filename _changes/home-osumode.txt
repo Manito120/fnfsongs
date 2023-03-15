@@ -1,0 +1,8 @@
+mods/data/home/home-hard.json
+mods/data/home/script(Sayori).lua
+mods/data/home/script(Yuri).lua
+mods/data/home/scriptCutscene.lua
+mods/songs/home/Voices.ogg
+mods/songs/home/voices.ogg
+mods/songs/home/Inst.ogg
+mods/songs/home/inst.ogg

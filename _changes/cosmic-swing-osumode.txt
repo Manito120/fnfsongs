@@ -1,0 +1,7 @@
+mods/data/cosmic-swing/cosmic-swing-hard.json
+mods/data/cosmic-swing/cosmic-swing.json
+mods/data/cosmic-swing/mod.txt
+mods/songs/cosmic-swing/Voices.ogg
+mods/songs/cosmic-swing/voices.ogg
+mods/songs/cosmic-swing/Inst.ogg
+mods/songs/cosmic-swing/inst.ogg

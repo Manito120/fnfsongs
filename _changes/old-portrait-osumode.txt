@@ -1,0 +1,7 @@
+mods/data/old-portrait/mod.txt
+mods/data/old-portrait/old-portrait-hard.json
+mods/data/old-portrait/old-portrait.json
+mods/songs/old-portrait/Voices.ogg
+mods/songs/old-portrait/voices.ogg
+mods/songs/old-portrait/Inst.ogg
+mods/songs/old-portrait/inst.ogg

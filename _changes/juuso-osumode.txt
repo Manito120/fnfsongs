@@ -1,0 +1,6 @@
+mods/data/juuso/events.json
+mods/data/juuso/juuso-hard.json
+mods/songs/juuso/Voices.ogg
+mods/songs/juuso/voices.ogg
+mods/songs/juuso/Inst.ogg
+mods/songs/juuso/inst.ogg

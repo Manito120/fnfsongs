@@ -1,6 +1,7 @@
+mods/data/void/mod.txt
 mods/data/void/void-hard.json
 mods/data/void/void.json
 mods/songs/void/Voices.ogg
-mods/songs/void/Inst.ogg
 mods/songs/void/voices.ogg
+mods/songs/void/Inst.ogg
 mods/songs/void/inst.ogg

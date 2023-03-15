@@ -1,0 +1,7 @@
+mods/data/mild/mild-hard.json
+mods/data/mild/mild.json
+mods/data/mild/mod.txt
+mods/songs/mild/Voices.ogg
+mods/songs/mild/voices.ogg
+mods/songs/mild/Inst.ogg
+mods/songs/mild/inst.ogg

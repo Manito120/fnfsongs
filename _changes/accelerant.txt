@@ -2,6 +2,6 @@ mods/data/accelerant/accelerant-baby.json
 mods/data/accelerant/accelerant-fucked.json
 mods/data/accelerant/accelerant-hard.json
 mods/songs/accelerant/Voices.ogg
-mods/songs/accelerant/Inst.ogg
 mods/songs/accelerant/voices.ogg
+mods/songs/accelerant/Inst.ogg
 mods/songs/accelerant/inst.ogg

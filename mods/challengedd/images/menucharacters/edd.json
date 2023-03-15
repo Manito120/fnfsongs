@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "EddHEY!!",
+	"idle_anim": "EddIdle",
+	"position": [
+		415,
+		137
+	],
+	"scale": 0.55,
+	"image": "MenuEdd"
+}

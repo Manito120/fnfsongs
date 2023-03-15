@@ -1,0 +1,7 @@
+mods/data/crucify/crucify-hard.json
+mods/data/crucify/crucify.json
+mods/data/crucify/mod.txt
+mods/songs/crucify/Voices.ogg
+mods/songs/crucify/voices.ogg
+mods/songs/crucify/Inst.ogg
+mods/songs/crucify/inst.ogg

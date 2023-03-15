@@ -1,0 +1,7 @@
+mods/data/unloaded/events.json
+mods/data/unloaded/unloaded-fucked.json
+mods/data/unloaded/unloaded-hard.json
+mods/songs/unloaded/Voices.ogg
+mods/songs/unloaded/voices.ogg
+mods/songs/unloaded/Inst.ogg
+mods/songs/unloaded/inst.ogg

@@ -3,6 +3,6 @@ mods/data/singularity/singularity-easy.json
 mods/data/singularity/singularity-hard.json
 mods/data/singularity/singularity.json
 mods/songs/singularity/Voices.ogg
-mods/songs/singularity/Inst.ogg
 mods/songs/singularity/voices.ogg
+mods/songs/singularity/Inst.ogg
 mods/songs/singularity/inst.ogg

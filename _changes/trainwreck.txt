@@ -2,6 +2,6 @@ mods/data/trainwreck/events.json
 mods/data/trainwreck/trainwreck-fucked.json
 mods/data/trainwreck/trainwreck-hard.json
 mods/songs/trainwreck/Voices.ogg
-mods/songs/trainwreck/Inst.ogg
 mods/songs/trainwreck/voices.ogg
+mods/songs/trainwreck/Inst.ogg
 mods/songs/trainwreck/inst.ogg

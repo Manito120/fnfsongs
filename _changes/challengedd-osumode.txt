@@ -1,0 +1,14 @@
+mods/data/challengedd/challengedd-fucked.json
+mods/data/challengedd/challengedd-hard.json
+mods/data/challengedd/mod.txt
+mods/challengedd/stages/eddhouse-tord.json
+mods/challengedd/stages/eddhouse-tord.lua
+mods/challengedd/stages/eddhouse.json
+mods/challengedd/stages/eddhouse.lua
+mods/challengedd/custom_notetypes/Rocket Note.lua
+mods/challengedd/custom_notetypes/Special Sing.lua
+mods/challengedd/custom_notetypes/Opponent Sing.lua
+mods/songs/challengedd/Voices.ogg
+mods/songs/challengedd/voices.ogg
+mods/songs/challengedd/Inst.ogg
+mods/songs/challengedd/inst.ogg

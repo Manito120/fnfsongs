@@ -1,0 +1,7 @@
+mods/data/erm/erm-hard.json
+mods/data/erm/erm.json
+mods/data/erm/mod.txt
+mods/songs/erm/Voices.ogg
+mods/songs/erm/voices.ogg
+mods/songs/erm/Inst.ogg
+mods/songs/erm/inst.ogg

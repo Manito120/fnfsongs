@@ -1,0 +1,8 @@
+mods/data/manifest/manifest-easy.json
+mods/data/manifest/manifest-hard.json
+mods/data/manifest/manifest-high.json
+mods/data/manifest/manifest.json
+mods/songs/manifest/Voices.ogg
+mods/songs/manifest/voices.ogg
+mods/songs/manifest/Inst.ogg
+mods/songs/manifest/inst.ogg

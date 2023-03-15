@@ -1,6 +1,7 @@
+mods/data/star-baby/mod.txt
 mods/data/star-baby/star-baby-hard.json
 mods/data/star-baby/star-baby.json
 mods/songs/star-baby/Voices.ogg
-mods/songs/star-baby/Inst.ogg
 mods/songs/star-baby/voices.ogg
+mods/songs/star-baby/Inst.ogg
 mods/songs/star-baby/inst.ogg

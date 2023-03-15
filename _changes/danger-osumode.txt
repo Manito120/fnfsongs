@@ -1,0 +1,5 @@
+mods/data/danger/danger.json
+mods/songs/danger/Voices.ogg
+mods/songs/danger/voices.ogg
+mods/songs/danger/Inst.ogg
+mods/songs/danger/inst.ogg

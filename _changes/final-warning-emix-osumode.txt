@@ -1,0 +1,5 @@
+mods/data/final-warning-emix/final-warning-emix.json
+mods/songs/final-warning-emix/Voices.ogg
+mods/songs/final-warning-emix/voices.ogg
+mods/songs/final-warning-emix/Inst.ogg
+mods/songs/final-warning-emix/inst.ogg

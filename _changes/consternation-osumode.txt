@@ -1,0 +1,8 @@
+mods/data/consternation/consternation-easy.json
+mods/data/consternation/consternation-hard.json
+mods/data/consternation/consternation.json
+mods/data/consternation/events.json
+mods/songs/consternation/Voices.ogg
+mods/songs/consternation/voices.ogg
+mods/songs/consternation/Inst.ogg
+mods/songs/consternation/inst.ogg

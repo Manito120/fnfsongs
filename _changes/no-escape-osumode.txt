@@ -1,0 +1,6 @@
+mods/data/no-escape/events.json
+mods/data/no-escape/no-escape.json
+mods/songs/no-escape/Voices.ogg
+mods/songs/no-escape/voices.ogg
+mods/songs/no-escape/Inst.ogg
+mods/songs/no-escape/inst.ogg

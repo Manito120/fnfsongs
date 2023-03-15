@@ -1,6 +1,30 @@
 mods/data/bombastic/bombastic-master.json
 mods/data/bombastic/events.json
+mods/data/bombastic/mod.txt
+mods/fruity/characters/bfkatana.json
+mods/fruity/characters/nothing.json
+mods/fruity/stages/dojo.json
+mods/fruity/stages/dojo.lua
+mods/fruity/images/characters/Boyfriend_Katana.png
+mods/fruity/images/characters/Boyfriend_Katana.xml
+mods/fruity/custom_notetypes/Bomb Note.lua
+mods/fruity/custom_notetypes/Slash Note.lua
+mods/fruity/custom_events/Angy Effect.lua
+mods/fruity/custom_events/Angy Effect Change Color.lua
+mods/fruity/images/platform.png
+mods/fruity/images/dojobg.png
+mods/fruity/images/angyness_effect.png
+mods/fruity/images/vignette.png
+mods/fruity/images/Apple.png
+mods/fruity/images/Watermelon.png
+mods/fruity/images/Pear.png
+mods/fruity/images/Peach.png
+mods/fruity/images/BombNote.png
+mods/fruity/images/BombNote.xml
+mods/fruity/sounds/bomb.ogg
+mods/fruity/images/Bomb.png
+mods/fruity/images/Bomb.xml
 mods/songs/bombastic/Voices.ogg
-mods/songs/bombastic/Inst.ogg
 mods/songs/bombastic/voices.ogg
+mods/songs/bombastic/Inst.ogg
 mods/songs/bombastic/inst.ogg

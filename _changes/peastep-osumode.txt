@@ -1,0 +1,7 @@
+mods/data/peastep/mod.txt
+mods/data/peastep/peastep-hard.json
+mods/data/peastep/peastep.json
+mods/songs/peastep/Voices.ogg
+mods/songs/peastep/voices.ogg
+mods/songs/peastep/Inst.ogg
+mods/songs/peastep/inst.ogg

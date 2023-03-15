@@ -1,0 +1,7 @@
+mods/data/perfect-math/perfect-math-baka.json
+mods/data/perfect-math/perfect-math-hard.json
+mods/data/perfect-math/perfect-math-lunatic.json
+mods/songs/perfect-math/Voices.ogg
+mods/songs/perfect-math/voices.ogg
+mods/songs/perfect-math/Inst.ogg
+mods/songs/perfect-math/inst.ogg

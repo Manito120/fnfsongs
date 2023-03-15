@@ -1,0 +1,7 @@
+mods/data/markov/events.json
+mods/data/markov/markov-hard.json
+mods/data/markov/markovScript.lua
+mods/songs/markov/Voices.ogg
+mods/songs/markov/voices.ogg
+mods/songs/markov/Inst.ogg
+mods/songs/markov/inst.ogg

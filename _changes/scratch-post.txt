@@ -3,6 +3,6 @@ mods/data/scratch-post/scratch-post-easy.json
 mods/data/scratch-post/scratch-post-hard.json
 mods/data/scratch-post/scratch-post.json
 mods/songs/scratch-post/Voices.ogg
-mods/songs/scratch-post/Inst.ogg
 mods/songs/scratch-post/voices.ogg
+mods/songs/scratch-post/Inst.ogg
 mods/songs/scratch-post/inst.ogg

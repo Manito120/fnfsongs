@@ -1,0 +1,7 @@
+mods/data/endurance/endurance-easy.json
+mods/data/endurance/endurance-hard.json
+mods/data/endurance/endurance.json
+mods/songs/endurance/Voices.ogg
+mods/songs/endurance/voices.ogg
+mods/songs/endurance/Inst.ogg
+mods/songs/endurance/inst.ogg

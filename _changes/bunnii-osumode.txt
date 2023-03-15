@@ -1,0 +1,7 @@
+mods/data/bunnii/bunnii-hard.json
+mods/data/bunnii/bunnii.json
+mods/data/bunnii/mod.txt
+mods/songs/bunnii/Voices.ogg
+mods/songs/bunnii/voices.ogg
+mods/songs/bunnii/Inst.ogg
+mods/songs/bunnii/inst.ogg

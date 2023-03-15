@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EddSide.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EddSideDown0000" x="1843" y="587" width="403" height="584" pivotX="-10.7" pivotY="-63.75" frameX="0" frameY="-7" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0001" x="1843" y="0" width="403" height="585" frameX="0" frameY="-7" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0002" x="1468" y="1975" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0003" x="1848" y="1173" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0004" x="1858" y="1767" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0005" x="2238" y="1173" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0006" x="1468" y="1975" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0007" x="1848" y="1173" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0008" x="1858" y="1767" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0009" x="2238" y="1173" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0010" x="1468" y="1975" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0011" x="1848" y="1173" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0012" x="1858" y="1767" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0013" x="2238" y="1173" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0014" x="1468" y="1975" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0015" x="1848" y="1173" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0016" x="1858" y="1767" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0017" x="2238" y="1173" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideDown0018" x="1468" y="1975" width="388" height="592" frameX="-8" frameY="0" frameWidth="403" frameHeight="592"/>
+	<SubTexture name="EddSideIdle0000" x="360" y="2626" width="360" height="646" pivotX="-23.85" pivotY="2.35" frameX="0" frameY="-7" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0001" x="360" y="2626" width="360" height="646" frameX="0" frameY="-7" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0002" x="1077" y="2627" width="351" height="647" frameX="-4" frameY="-6" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0003" x="1077" y="2627" width="351" height="647" frameX="-4" frameY="-6" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0004" x="751" y="0" width="354" height="651" frameX="-3" frameY="-2" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0005" x="722" y="2625" width="353" height="652" frameX="-3" frameY="-2" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0006" x="2208" y="2422" width="345" height="652" frameX="-7" frameY="-2" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0007" x="1430" y="2627" width="348" height="652" frameX="-6" frameY="-1" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0008" x="2248" y="1767" width="348" height="653" frameX="-6" frameY="0" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0009" x="1077" y="3276" width="345" height="653" frameX="-7" frameY="-1" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0010" x="712" y="3279" width="345" height="653" frameX="-7" frameY="-1" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0011" x="1858" y="2361" width="348" height="653" frameX="-6" frameY="0" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0012" x="2248" y="1767" width="348" height="653" frameX="-6" frameY="0" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideIdle0013" x="1077" y="3276" width="345" height="653" frameX="-7" frameY="-1" frameWidth="360" frameHeight="654"/>
+	<SubTexture name="EddSideLeft0000" x="1108" y="1969" width="358" height="656" pivotX="-20" pivotY="5.3" frameX="0" frameY="0" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0001" x="0" y="2626" width="358" height="656" frameX="0" frameY="-1" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0002" x="2248" y="0" width="349" height="656" frameX="-8" frameY="-1" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0003" x="360" y="3274" width="350" height="656" frameX="-8" frameY="0" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0004" x="0" y="3284" width="350" height="656" frameX="-8" frameY="0" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0005" x="2599" y="0" width="349" height="656" frameX="-8" frameY="-1" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0006" x="2248" y="0" width="349" height="656" frameX="-8" frameY="-1" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0007" x="360" y="3274" width="350" height="656" frameX="-8" frameY="0" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0008" x="0" y="3284" width="350" height="656" frameX="-8" frameY="0" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0009" x="2599" y="0" width="349" height="656" frameX="-8" frameY="-1" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0010" x="2248" y="0" width="349" height="656" frameX="-8" frameY="-1" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0011" x="360" y="3274" width="350" height="656" frameX="-8" frameY="0" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0012" x="0" y="3284" width="350" height="656" frameX="-8" frameY="0" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0013" x="2599" y="0" width="349" height="656" frameX="-8" frameY="-1" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0014" x="2248" y="0" width="349" height="656" frameX="-8" frameY="-1" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0015" x="360" y="3274" width="350" height="656" frameX="-8" frameY="0" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideLeft0016" x="0" y="3284" width="350" height="656" frameX="-8" frameY="0" frameWidth="358" frameHeight="657"/>
+	<SubTexture name="EddSideRight0000" x="0" y="0" width="374" height="652" pivotX="-25.9" pivotY="1.1" frameX="-1" frameY="0" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0001" x="376" y="0" width="373" height="653" frameX="-2" frameY="0" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0002" x="370" y="1971" width="367" height="652" frameX="-1" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0003" x="1473" y="0" width="368" height="651" frameX="0" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0004" x="1473" y="653" width="368" height="651" frameX="0" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0005" x="739" y="1971" width="367" height="652" frameX="-1" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0006" x="370" y="1971" width="367" height="652" frameX="-1" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0007" x="1473" y="0" width="368" height="651" frameX="0" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0008" x="1473" y="653" width="368" height="651" frameX="0" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0009" x="739" y="1971" width="367" height="652" frameX="-1" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0010" x="370" y="1971" width="367" height="652" frameX="-1" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0011" x="1473" y="0" width="368" height="651" frameX="0" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0012" x="1473" y="653" width="368" height="651" frameX="0" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideRight0013" x="739" y="1971" width="367" height="652" frameX="-1" frameY="-1" frameWidth="375" frameHeight="653"/>
+	<SubTexture name="EddSideUp0000" x="2628" y="658" width="303" height="686" pivotX="-44" pivotY="39.75" frameX="-4" frameY="0" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0001" x="2628" y="1346" width="301" height="686" frameX="-5" frameY="0" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0002" x="1780" y="3016" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0003" x="1424" y="3281" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0004" x="2555" y="2422" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0005" x="2094" y="3076" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0006" x="1780" y="3016" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0007" x="1424" y="3281" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0008" x="2555" y="2422" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0009" x="2094" y="3076" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0010" x="1780" y="3016" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0011" x="1424" y="3281" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0012" x="2555" y="2422" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0013" x="2094" y="3076" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0014" x="1780" y="3016" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0015" x="1424" y="3281" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddSideUp0016" x="2555" y="2422" width="312" height="679" frameX="0" frameY="-7" frameWidth="312" frameHeight="686"/>
+	<SubTexture name="EddTurnAround0000" x="1111" y="1313" width="374" height="645" pivotX="8.75" pivotY="13.25" frameX="0" frameY="-21" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0001" x="1112" y="0" width="359" height="668" frameX="-14" frameY="0" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0002" x="1487" y="1306" width="359" height="667" frameX="-13" frameY="0" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0003" x="740" y="1313" width="369" height="654" frameX="-8" frameY="-13" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0004" x="0" y="1970" width="368" height="654" frameX="-9" frameY="-13" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0005" x="0" y="1312" width="368" height="656" frameX="-9" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0006" x="0" y="654" width="369" height="656" frameX="-8" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0007" x="371" y="655" width="369" height="656" frameX="-8" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0008" x="742" y="655" width="368" height="656" frameX="-9" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0009" x="370" y="1313" width="368" height="656" frameX="-9" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0010" x="0" y="654" width="369" height="656" frameX="-8" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0011" x="0" y="654" width="369" height="656" frameX="-8" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0012" x="0" y="1312" width="368" height="656" frameX="-9" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0013" x="0" y="1312" width="368" height="656" frameX="-9" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0014" x="0" y="654" width="369" height="656" frameX="-8" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0015" x="0" y="654" width="369" height="656" frameX="-8" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0016" x="0" y="1312" width="368" height="656" frameX="-9" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0017" x="0" y="1312" width="368" height="656" frameX="-9" frameY="-11" frameWidth="377" frameHeight="668"/>
+	<SubTexture name="EddTurnAround0018" x="0" y="654" width="369" height="656" frameX="-8" frameY="-11" frameWidth="377" frameHeight="668"/>
+</TextureAtlas>

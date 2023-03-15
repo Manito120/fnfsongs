@@ -3,6 +3,6 @@ mods/data/relighted/relighted-hard-final.json
 mods/data/relighted/relighted-hard.json
 mods/data/relighted/relighted.json
 mods/songs/relighted/Voices.ogg
-mods/songs/relighted/Inst.ogg
 mods/songs/relighted/voices.ogg
+mods/songs/relighted/Inst.ogg
 mods/songs/relighted/inst.ogg

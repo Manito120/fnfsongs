@@ -1,0 +1,7 @@
+mods/data/prayer/mod.txt
+mods/data/prayer/prayer-hard.json
+mods/data/prayer/prayer.json
+mods/songs/prayer/Voices.ogg
+mods/songs/prayer/voices.ogg
+mods/songs/prayer/Inst.ogg
+mods/songs/prayer/inst.ogg

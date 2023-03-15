@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Target.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Target0000" x="0" y="0" width="175" height="171" pivotX="-261.95" pivotY="-2.3"/>
+	<SubTexture name="Target0001" x="177" y="0" width="175" height="171"/>
+	<SubTexture name="Target0002" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0003" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0004" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0005" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0006" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0007" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0008" x="177" y="0" width="175" height="171"/>
+	<SubTexture name="Target0009" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0010" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0011" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0012" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0013" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0014" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0015" x="177" y="0" width="175" height="171"/>
+	<SubTexture name="Target0016" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0017" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0018" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0019" x="177" y="0" width="175" height="171"/>
+	<SubTexture name="Target0020" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0021" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0022" x="177" y="0" width="175" height="171"/>
+	<SubTexture name="Target0023" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0024" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0025" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0026" x="177" y="0" width="175" height="171"/>
+	<SubTexture name="Target0027" x="0" y="173" width="175" height="171"/>
+	<SubTexture name="Target0028" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0029" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0030" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0031" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0032" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0033" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0034" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0035" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0036" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0037" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0038" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0039" x="0" y="0" width="175" height="171"/>
+	<SubTexture name="Target0040" x="0" y="0" width="175" height="171"/>
+</TextureAtlas>

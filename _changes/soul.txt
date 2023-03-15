@@ -1,6 +1,7 @@
+mods/data/soul/mod.txt
 mods/data/soul/soul-hard.json
 mods/data/soul/soul.json
 mods/songs/soul/Voices.ogg
-mods/songs/soul/Inst.ogg
 mods/songs/soul/voices.ogg
+mods/songs/soul/Inst.ogg
 mods/songs/soul/inst.ogg

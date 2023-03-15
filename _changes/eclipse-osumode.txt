@@ -1,0 +1,7 @@
+mods/data/eclipse/eclipse-hard.json
+mods/data/eclipse/eclipse.json
+mods/data/eclipse/mod.txt
+mods/songs/eclipse/Voices.ogg
+mods/songs/eclipse/voices.ogg
+mods/songs/eclipse/Inst.ogg
+mods/songs/eclipse/inst.ogg

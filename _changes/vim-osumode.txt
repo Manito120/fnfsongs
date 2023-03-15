@@ -1,0 +1,7 @@
+mods/data/vim/mod.txt
+mods/data/vim/vim-hard.json
+mods/data/vim/vim.json
+mods/songs/vim/Voices.ogg
+mods/songs/vim/voices.ogg
+mods/songs/vim/Inst.ogg
+mods/songs/vim/inst.ogg

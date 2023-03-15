@@ -1,0 +1,7 @@
+mods/data/dead-mans-melody/dead-mans-melody-hard.json
+mods/data/dead-mans-melody/dead-mans-melody.json
+mods/data/dead-mans-melody/mod.txt
+mods/songs/dead-mans-melody/Voices.ogg
+mods/songs/dead-mans-melody/voices.ogg
+mods/songs/dead-mans-melody/Inst.ogg
+mods/songs/dead-mans-melody/inst.ogg

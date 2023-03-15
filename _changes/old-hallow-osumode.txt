@@ -1,0 +1,7 @@
+mods/data/old-hallow/mod.txt
+mods/data/old-hallow/old-hallow-hard.json
+mods/data/old-hallow/old-hallow.json
+mods/songs/old-hallow/Voices.ogg
+mods/songs/old-hallow/voices.ogg
+mods/songs/old-hallow/Inst.ogg
+mods/songs/old-hallow/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/manifest-high/events.json
+mods/data/manifest-high/manifest-high.json
+mods/songs/manifest-high/Voices.ogg
+mods/songs/manifest-high/voices.ogg
+mods/songs/manifest-high/Inst.ogg
+mods/songs/manifest-high/inst.ogg

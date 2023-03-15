@@ -1,0 +1,7 @@
+mods/data/honey/honey-hard.json
+mods/data/honey/honey.json
+mods/data/honey/mod.txt
+mods/songs/honey/Voices.ogg
+mods/songs/honey/voices.ogg
+mods/songs/honey/Inst.ogg
+mods/songs/honey/inst.ogg

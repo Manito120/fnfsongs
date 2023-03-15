@@ -1,0 +1,5 @@
+mods/data/banned/banned-hard.json
+mods/songs/banned/Voices.ogg
+mods/songs/banned/voices.ogg
+mods/songs/banned/Inst.ogg
+mods/songs/banned/inst.ogg

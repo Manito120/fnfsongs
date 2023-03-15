@@ -1,8 +1,8 @@
 {
 	"song": {
-		"player1": "sadbf",
+		"player1": "bf-invisible",
 		"events": [],
-		"player2": "yuri-closet",
+		"player2": "bestdoki-invis",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -10965,7 +10965,7 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf-realdoki",
+		"gfVersion": "gf",
 		"song": "MARKOV",
 		"stage": "markov",
 		"needsVoices": true,

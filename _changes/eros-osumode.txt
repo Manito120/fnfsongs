@@ -1,0 +1,7 @@
+mods/data/eros/eros-hard.json
+mods/data/eros/eros.json
+mods/data/eros/mod.txt
+mods/songs/eros/Voices.ogg
+mods/songs/eros/voices.ogg
+mods/songs/eros/Inst.ogg
+mods/songs/eros/inst.ogg

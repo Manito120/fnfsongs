@@ -1,0 +1,7 @@
+mods/data/genocide/genocide-easy.json
+mods/data/genocide/genocide-hard.json
+mods/data/genocide/genocide.json
+mods/songs/genocide/Voices.ogg
+mods/songs/genocide/voices.ogg
+mods/songs/genocide/Inst.ogg
+mods/songs/genocide/inst.ogg

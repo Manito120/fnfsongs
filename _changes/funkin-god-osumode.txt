@@ -1,0 +1,7 @@
+mods/data/funkin-god/funkin-god-hard.json
+mods/data/funkin-god/funkin-god.json
+mods/data/funkin-god/mod.txt
+mods/songs/funkin-god/Voices.ogg
+mods/songs/funkin-god/voices.ogg
+mods/songs/funkin-god/Inst.ogg
+mods/songs/funkin-god/inst.ogg

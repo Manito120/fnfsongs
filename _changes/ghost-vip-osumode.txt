@@ -1,0 +1,4 @@
+mods/data/ghost-vip/events.json
+mods/data/ghost-vip/ghost-vip-hard.json
+mods/songs/ghost-vip/Inst.ogg
+mods/songs/ghost-vip/inst.ogg

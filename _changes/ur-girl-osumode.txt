@@ -1,0 +1,7 @@
+mods/data/ur-girl/mod.txt
+mods/data/ur-girl/ur-girl-hard.json
+mods/data/ur-girl/ur-girl.json
+mods/songs/ur-girl/Voices.ogg
+mods/songs/ur-girl/voices.ogg
+mods/songs/ur-girl/Inst.ogg
+mods/songs/ur-girl/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/bad-nun/bad-nun-hard.json
+mods/data/bad-nun/bad-nun.json
+mods/data/bad-nun/mod.txt
+mods/songs/bad-nun/Voices.ogg
+mods/songs/bad-nun/voices.ogg
+mods/songs/bad-nun/Inst.ogg
+mods/songs/bad-nun/inst.ogg

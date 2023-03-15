@@ -1,0 +1,7 @@
+mods/data/feel-the-rage/feel-the-rage-hard.json
+mods/data/feel-the-rage/feel-the-rage.json
+mods/data/feel-the-rage/mod.txt
+mods/songs/feel-the-rage/Voices.ogg
+mods/songs/feel-the-rage/voices.ogg
+mods/songs/feel-the-rage/Inst.ogg
+mods/songs/feel-the-rage/inst.ogg

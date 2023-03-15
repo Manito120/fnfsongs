@@ -1,0 +1,3 @@
+mods/data/ghost/ghost-hard.json
+mods/songs/ghost/Inst.ogg
+mods/songs/ghost/inst.ogg

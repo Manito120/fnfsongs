@@ -1,6 +1,7 @@
 mods/data/stagnant/events.json
+mods/data/stagnant/scriptCutscene.lua
 mods/data/stagnant/stagnant-hard.json
 mods/songs/stagnant/Voices.ogg
-mods/songs/stagnant/Inst.ogg
 mods/songs/stagnant/voices.ogg
+mods/songs/stagnant/Inst.ogg
 mods/songs/stagnant/inst.ogg

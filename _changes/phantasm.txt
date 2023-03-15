@@ -2,6 +2,6 @@ mods/data/phantasm/phantasm-easy.json
 mods/data/phantasm/phantasm-hard.json
 mods/data/phantasm/phantasm.json
 mods/songs/phantasm/Voices.ogg
-mods/songs/phantasm/Inst.ogg
 mods/songs/phantasm/voices.ogg
+mods/songs/phantasm/Inst.ogg
 mods/songs/phantasm/inst.ogg

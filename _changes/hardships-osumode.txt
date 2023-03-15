@@ -1,0 +1,7 @@
+mods/data/hardships/hardships-hard.json
+mods/data/hardships/hardships.json
+mods/data/hardships/mod.txt
+mods/songs/hardships/Voices.ogg
+mods/songs/hardships/voices.ogg
+mods/songs/hardships/Inst.ogg
+mods/songs/hardships/inst.ogg

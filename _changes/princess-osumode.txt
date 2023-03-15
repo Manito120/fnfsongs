@@ -1,0 +1,7 @@
+mods/data/princess/mod.txt
+mods/data/princess/princess-hard.json
+mods/data/princess/princess.json
+mods/songs/princess/Voices.ogg
+mods/songs/princess/voices.ogg
+mods/songs/princess/Inst.ogg
+mods/songs/princess/inst.ogg

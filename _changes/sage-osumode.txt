@@ -1,0 +1,7 @@
+mods/data/sage/sage-easy.json
+mods/data/sage/sage-hard.json
+mods/data/sage/sage.json
+mods/songs/sage/Voices.ogg
+mods/songs/sage/voices.ogg
+mods/songs/sage/Inst.ogg
+mods/songs/sage/inst.ogg

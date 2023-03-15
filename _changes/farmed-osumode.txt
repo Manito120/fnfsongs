@@ -1,0 +1,7 @@
+mods/data/farmed/farmed-hard.json
+mods/data/farmed/farmed.json
+mods/data/farmed/mod.txt
+mods/songs/farmed/Voices.ogg
+mods/songs/farmed/voices.ogg
+mods/songs/farmed/Inst.ogg
+mods/songs/farmed/inst.ogg

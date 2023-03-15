@@ -1,0 +1,5 @@
+mods/data/final-warning/final-warning.json
+mods/songs/final-warning/Voices.ogg
+mods/songs/final-warning/voices.ogg
+mods/songs/final-warning/Inst.ogg
+mods/songs/final-warning/inst.ogg

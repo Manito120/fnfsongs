@@ -1,0 +1,7 @@
+mods/data/down-horrendous/down-horrendous-hard.json
+mods/data/down-horrendous/down-horrendous.json
+mods/data/down-horrendous/mod.txt
+mods/songs/down-horrendous/Voices.ogg
+mods/songs/down-horrendous/voices.ogg
+mods/songs/down-horrendous/Inst.ogg
+mods/songs/down-horrendous/inst.ogg

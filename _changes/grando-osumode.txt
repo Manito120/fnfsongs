@@ -1,0 +1,7 @@
+mods/data/grando/grando-hard.json
+mods/data/grando/grando.json
+mods/data/grando/mod.txt
+mods/songs/grando/Voices.ogg
+mods/songs/grando/voices.ogg
+mods/songs/grando/Inst.ogg
+mods/songs/grando/inst.ogg

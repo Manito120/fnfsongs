@@ -1,0 +1,7 @@
+mods/data/milk-tea/milk-tea-hard.json
+mods/data/milk-tea/milk-tea.json
+mods/data/milk-tea/mod.txt
+mods/songs/milk-tea/Voices.ogg
+mods/songs/milk-tea/voices.ogg
+mods/songs/milk-tea/Inst.ogg
+mods/songs/milk-tea/inst.ogg

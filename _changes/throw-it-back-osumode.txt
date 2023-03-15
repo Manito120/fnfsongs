@@ -1,0 +1,7 @@
+mods/data/throw-it-back/mod.txt
+mods/data/throw-it-back/throw-it-back-hard.json
+mods/data/throw-it-back/throw-it-back.json
+mods/songs/throw-it-back/Voices.ogg
+mods/songs/throw-it-back/voices.ogg
+mods/songs/throw-it-back/Inst.ogg
+mods/songs/throw-it-back/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/mako/mako-hard.json
+mods/data/mako/mako.json
+mods/data/mako/mod.txt
+mods/songs/mako/Voices.ogg
+mods/songs/mako/voices.ogg
+mods/songs/mako/Inst.ogg
+mods/songs/mako/inst.ogg

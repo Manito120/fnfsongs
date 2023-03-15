@@ -1,0 +1,7 @@
+mods/data/old-soul/mod.txt
+mods/data/old-soul/old-soul-hard.json
+mods/data/old-soul/old-soul.json
+mods/songs/old-soul/Voices.ogg
+mods/songs/old-soul/voices.ogg
+mods/songs/old-soul/Inst.ogg
+mods/songs/old-soul/inst.ogg

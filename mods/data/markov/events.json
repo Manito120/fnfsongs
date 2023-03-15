@@ -2,8 +2,8 @@
 	"song": {
 		"speed": 2.3,
 		"stage": "markov",
-		"player1": "sadbf",
-		"player2": "yuri-closet",
+		"player1": "bf-invisible",
+		"player2": "bestdoki-invis",
 		"player3": null,
 		"events": [
 			[
@@ -53,6 +53,11 @@
 			[
 				10787.6712328767,
 				[
+					[
+					    "Change Character",
+					    "dad",
+					    "yuri-closet"
+					],
 					[
 						"Play Animation",
 						"appear",
@@ -170,16 +175,19 @@
 				46027.397260274,
 				[
 					[
-						"Character Visibility",
+						"Change Character",
 						"gf",
-						"1",
-						"0"
+						"gf-realdoki"
 					],
 					[
-						"Character Visibility",
+					    "Play Animation",
+					    "necksnap",
+					    "gf"
+					],
+					[
+						"Change Character",
 						"bf",
-						"1",
-						"0"
+						"sadbf"
 					],
 					[
 						"Change Character",
@@ -300,16 +308,14 @@
 						"0"
 					],
 					[
-						"Character Visibility",
+						"Change Character",
 						"bf",
-						"0",
-						"0"
+						"bf-invisible"
 					],
 					[
-						"Character Visibility",
+						"Change Character",
 						"gf",
-						"0",
-						"0"
+						"gf"
 					]
 				]
 			],
@@ -358,10 +364,9 @@
 						"yuri-crazy"
 					],
 					[
-						"Character Visibility",
+						"Change Character",
 						"bf",
-						"1",
-						"0"
+						"sadbf"
 					],
 					[
 						"Change Stagnant Stage",
@@ -370,10 +375,9 @@
 						""
 					],
 					[
-						"Change Character",
+						"",
 						"gf",
-						"gf-markov",
-						""
+						"gf"
 					],
 					[
 						"Change Camera Zoom",
@@ -404,10 +408,9 @@
 						""
 					],
 					[
-						"Character Visibility",
+						"Change Character",
 						"gf",
-						"1",
-						"0"
+						"gf-markov"
 					],
 					[
 						"Add Camera Zoom",
@@ -618,16 +621,14 @@
 						""
 					],
 					[
-						"Character Visibility",
+						"Change Character",
 						"bf",
-						"0",
-						""
+						"bf-invisible"
 					],
 					[
-						"Character Visibility",
+						"Change Character",
 						"gf",
-						"0",
-						""
+						"gf"
 					]
 				]
 			],
@@ -1474,7 +1475,7 @@
 		"notes": [],
 		"splashSkin": null,
 		"validScore": false,
-		"gfVersion": "gf-realdoki",
+		"gfVersion": "gf",
 		"bpm": 146,
 		"arrowSkin": null,
 		"needsVoices": true,

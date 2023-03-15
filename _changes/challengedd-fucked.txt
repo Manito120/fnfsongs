@@ -1,6 +1,63 @@
 mods/data/challengedd-fucked/challengedd-fucked.json
 mods/data/challengedd-fucked/events.json
+mods/challengedd/characters/edd-tordcutsene.json
+mods/challengedd/images/characters/EddTordCutscene.png
+mods/challengedd/images/characters/EddTordCutscene.xml
+mods/challengedd/characters/bf-tordcutscene.json
+mods/challengedd/images/characters/BFTordCutscene.png
+mods/challengedd/images/characters/BFTordCutscene.xml
+mods/challengedd/characters/tord.json
+mods/challengedd/images/characters/Tord.png
+mods/challengedd/images/characters/Tord.xml
+mods/challengedd/characters/slide-edd.json
+mods/challengedd/images/characters/SlideEdd.png
+mods/challengedd/images/characters/SlideEdd.xml
+mods/challengedd/characters/slide-bf.json
+mods/challengedd/images/characters/SlideBF.png
+mods/challengedd/images/characters/SlideBF.xml
+mods/challengedd/characters/tord2.json
+mods/challengedd/images/characters/Tord2.png
+mods/challengedd/images/characters/Tord2.xml
+mods/data/challengedd-fucked/mod.txt
+mods/challengedd/characters/edd.json
+mods/challengedd/stages/eddhouse-tord.json
+mods/challengedd/stages/eddhouse-tord.lua
+mods/challengedd/images/characters/Edd.png
+mods/challengedd/images/characters/Edd.xml
+mods/challengedd/custom_notetypes/Rocket Note.lua
+mods/challengedd/custom_notetypes/Special Sing.lua
+mods/challengedd/custom_notetypes/Opponent Sing.lua
+mods/challengedd/images/DoorOpen.png
+mods/challengedd/images/Matt.png
+mods/challengedd/images/notes/Explosion.png
+mods/challengedd/images/SkyBox.png
+mods/challengedd/images/Clouds.png
+mods/challengedd/images/HousesAndFloor.png
+mods/challengedd/images/DoorOpen.xml
+mods/challengedd/images/SecondParalax.png
+mods/challengedd/images/Matt.xml
+mods/challengedd/images/TomEND.png
+mods/challengedd/images/TomEND.xml
+mods/challengedd/images/Car.png
+mods/challengedd/images/Plane.png
+mods/challengedd/images/TordHelicopter.png
+mods/challengedd/images/TordHelicopter.xml
+mods/challengedd/images/TordFallin.png
+mods/challengedd/images/TordFallin.xml
+mods/challengedd/images/notes/Explosion.xml
+mods/challengedd/images/notes/Target.png
+mods/challengedd/images/notes/Target.xml
+mods/challengedd/images/TordBot.png
+mods/challengedd/images/TordBot.xml
+mods/challengedd/images/Fence.png
+mods/challengedd/images/TordBG.png
+mods/challengedd/images/CockPitUpClose.png
+mods/challengedd/images/edd.png
+mods/challengedd/images/notes/Rocket Note.png
+mods/challengedd/images/notes/Rocket Note.xml
+mods/challengedd/images/notes/DS Rocket Note.png
+mods/challengedd/images/notes/DS Rocket Note.xml
 mods/songs/challengedd-fucked/Voices.ogg
-mods/songs/challengedd-fucked/Inst.ogg
 mods/songs/challengedd-fucked/voices.ogg
+mods/songs/challengedd-fucked/Inst.ogg
 mods/songs/challengedd-fucked/inst.ogg

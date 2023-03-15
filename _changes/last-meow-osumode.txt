@@ -1,0 +1,7 @@
+mods/data/last-meow/last-meow-hard.json
+mods/data/last-meow/last-meow.json
+mods/data/last-meow/mod.txt
+mods/songs/last-meow/Voices.ogg
+mods/songs/last-meow/voices.ogg
+mods/songs/last-meow/Inst.ogg
+mods/songs/last-meow/inst.ogg

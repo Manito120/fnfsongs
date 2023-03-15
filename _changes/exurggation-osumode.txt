@@ -1,0 +1,3 @@
+mods/data/exurggation/exurggation.json
+mods/songs/exurggation/Inst.ogg
+mods/songs/exurggation/inst.ogg

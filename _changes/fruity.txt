@@ -1,7 +1,23 @@
 mods/data/fruity/events.json
 mods/data/fruity/fruity-hard.json
 mods/data/fruity/fruity-master.json
+mods/data/fruity/mod.txt
+mods/fruity/characters/bfkatana.json
+mods/fruity/characters/nothing.json
+mods/fruity/stages/dojo.json
+mods/fruity/stages/dojo.lua
+mods/fruity/images/characters/Boyfriend_Katana.png
+mods/fruity/images/characters/Boyfriend_Katana.xml
+mods/fruity/custom_notetypes/Slash Note.lua
+mods/fruity/images/platform.png
+mods/fruity/images/dojobg.png
+mods/fruity/images/angyness_effect.png
+mods/fruity/images/vignette.png
+mods/fruity/images/Apple.png
+mods/fruity/images/Watermelon.png
+mods/fruity/images/Pear.png
+mods/fruity/images/Peach.png
 mods/songs/fruity/Voices.ogg
-mods/songs/fruity/Inst.ogg
 mods/songs/fruity/voices.ogg
+mods/songs/fruity/Inst.ogg
 mods/songs/fruity/inst.ogg

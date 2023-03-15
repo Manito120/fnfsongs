@@ -1,0 +1,11 @@
+mods/data/fruity/events.json
+mods/data/fruity/fruity-hard.json
+mods/data/fruity/fruity-master.json
+mods/data/fruity/mod.txt
+mods/fruity/stages/dojo.json
+mods/fruity/stages/dojo.lua
+mods/fruity/custom_notetypes/Slash Note.lua
+mods/songs/fruity/Voices.ogg
+mods/songs/fruity/voices.ogg
+mods/songs/fruity/Inst.ogg
+mods/songs/fruity/inst.ogg

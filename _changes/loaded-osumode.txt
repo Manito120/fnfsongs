@@ -1,0 +1,7 @@
+mods/data/loaded/loaded-hard.json
+mods/data/loaded/loaded.json
+mods/data/loaded/mod.txt
+mods/songs/loaded/Voices.ogg
+mods/songs/loaded/voices.ogg
+mods/songs/loaded/Inst.ogg
+mods/songs/loaded/inst.ogg
