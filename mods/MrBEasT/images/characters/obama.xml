@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="obama.png">
+<SubTexture name="obama down0000" x="582" y="2424" width="695" height="256" frameX="0" frameY="-129" frameWidth="695" frameHeight="398" />
+<SubTexture name="obama down0001" x="1878" y="2058" width="493" height="343" frameX="-101" frameY="-55" frameWidth="695" frameHeight="398" />
+<SubTexture name="obama down0002" x="1728" y="0" width="383" height="375" frameX="-156" frameY="-15" frameWidth="695" frameHeight="398" />
+<SubTexture name="obama down0003" x="413" y="551" width="339" height="381" frameX="-178" frameY="0" frameWidth="695" frameHeight="398" />
+<SubTexture name="obama down0004" x="1021" y="0" width="339" height="381" frameX="-178" frameY="0" frameWidth="695" frameHeight="398" />
+<SubTexture name="obama down0005" x="0" y="933" width="357" height="379" frameX="-169" frameY="-6" frameWidth="695" frameHeight="398" />
+<SubTexture name="obama down0006" x="1360" y="0" width="368" height="378" frameX="-164" frameY="-10" frameWidth="695" frameHeight="398" />
+<SubTexture name="obama idle0000" x="0" y="2424" width="582" height="290" frameX="0" frameY="-101" frameWidth="582" frameHeight="391" />
+<SubTexture name="obama idle0001" x="2479" y="0" width="450" height="333" frameX="-66" frameY="-43" frameWidth="582" frameHeight="391" />
+<SubTexture name="obama idle0002" x="1500" y="2058" width="378" height="363" frameX="-102" frameY="-12" frameWidth="582" frameHeight="391" />
+<SubTexture name="obama idle0003" x="1728" y="375" width="350" height="375" frameX="-116" frameY="0" frameWidth="582" frameHeight="391" />
+<SubTexture name="obama idle0004" x="372" y="1312" width="348" height="376" frameX="-117" frameY="0" frameWidth="582" frameHeight="391" />
+<SubTexture name="obama idle0005" x="1728" y="1123" width="360" height="370" frameX="-111" frameY="-5" frameWidth="582" frameHeight="391" />
+<SubTexture name="obama idle0006" x="373" y="1689" width="368" height="368" frameX="-107" frameY="-8" frameWidth="582" frameHeight="391" />
+<SubTexture name="obama left0000" x="741" y="1689" width="487" height="368" frameX="0" frameY="-4" frameWidth="497" frameHeight="382" />
+<SubTexture name="obama left0001" x="0" y="551" width="413" height="382" frameX="-74" frameY="0" frameWidth="497" frameHeight="382" />
+<SubTexture name="obama left0002" x="357" y="933" width="373" height="379" frameX="-114" frameY="-3" frameWidth="497" frameHeight="382" />
+<SubTexture name="obama left0003" x="720" y="1312" width="378" height="376" frameX="-119" frameY="-6" frameWidth="497" frameHeight="382" />
+<SubTexture name="obama left0004" x="1098" y="1312" width="378" height="376" frameX="-119" frameY="-6" frameWidth="497" frameHeight="382" />
+<SubTexture name="obama left0005" x="0" y="1312" width="372" height="377" frameX="-119" frameY="-5" frameWidth="497" frameHeight="382" />
+<SubTexture name="obama left0006" x="1360" y="378" width="368" height="378" frameX="-119" frameY="-4" frameWidth="497" frameHeight="382" />
+<SubTexture name="obama right0000" x="1228" y="1689" width="492" height="368" frameX="-10" frameY="-5" frameWidth="502" frameHeight="379" />
+<SubTexture name="obama right0001" x="730" y="933" width="415" height="379" frameX="-10" frameY="0" frameWidth="502" frameHeight="379" />
+<SubTexture name="obama right0002" x="0" y="1689" width="373" height="369" frameX="-10" frameY="-4" frameWidth="502" frameHeight="379" />
+<SubTexture name="obama right0003" x="0" y="2058" width="378" height="366" frameX="0" frameY="-7" frameWidth="502" frameHeight="379" />
+<SubTexture name="obama right0004" x="378" y="2058" width="378" height="366" frameX="0" frameY="-7" frameWidth="502" frameHeight="379" />
+<SubTexture name="obama right0005" x="1720" y="1689" width="372" height="368" frameX="-6" frameY="-5" frameWidth="502" frameHeight="379" />
+<SubTexture name="obama right0006" x="2111" y="0" width="368" height="368" frameX="-10" frameY="-5" frameWidth="502" frameHeight="379" />
+<SubTexture name="obama up0000" x="0" y="0" width="310" height="551" frameX="-31" frameY="0" frameWidth="372" frameHeight="564" />
+<SubTexture name="obama up0001" x="310" y="0" width="346" height="438" frameX="-13" frameY="-113" frameWidth="372" frameHeight="564" />
+<SubTexture name="obama up0002" x="656" y="0" width="365" height="383" frameX="-3" frameY="-175" frameWidth="372" frameHeight="564" />
+<SubTexture name="obama up0003" x="756" y="2058" width="372" height="365" frameX="0" frameY="-199" frameWidth="372" frameHeight="564" />
+<SubTexture name="obama up0004" x="1128" y="2058" width="372" height="365" frameX="0" frameY="-199" frameWidth="372" frameHeight="564" />
+<SubTexture name="obama up0005" x="1728" y="750" width="370" height="373" frameX="-1" frameY="-189" frameWidth="372" frameHeight="564" />
+<SubTexture name="obama up0006" x="1360" y="756" width="368" height="378" frameX="-2" frameY="-183" frameWidth="372" frameHeight="564" />
+</TextureAtlas>

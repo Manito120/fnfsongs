@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				101,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jimmy left"
+		},
+		{
+			"offsets": [
+				160,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jimmy down"
+		},
+		{
+			"offsets": [
+				-36,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jimmy up"
+		},
+		{
+			"offsets": [
+				-210,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jimmy right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jimmy idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mrbeast",
+	"position": [
+		-380,
+		-150
+	],
+	"healthicon": "beast",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		153,
+		204
+	],
+	"camera_position": [
+		120,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

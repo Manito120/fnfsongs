@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jimmy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jimmy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jimmy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-210,
+				-103
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jimmy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jimmy idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/K",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Nothing",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		153,
+		204
+	],
+	"camera_position": [
+		-180,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
