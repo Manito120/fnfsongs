@@ -1,0 +1,7 @@
+mods/data/attack-of-the-mrbeast/attack-of-the-mrbeast.json
+mods/data/attack-of-the-mrbeast/mod.txt
+mods/MrBEasT/stages/BEST.json
+mods/MrBEasT/stages/BEST.lua
+mods/MrBEasT/custom_events/Flash Camera.lua
+mods/songs/attack-of-the-mrbeast/Inst.ogg
+mods/songs/attack-of-the-mrbeast/inst.ogg

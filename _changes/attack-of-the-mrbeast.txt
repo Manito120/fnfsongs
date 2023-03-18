@@ -1,0 +1,25 @@
+mods/data/attack-of-the-mrbeast/attack-of-the-mrbeast.json
+mods/data/attack-of-the-mrbeast/mod.txt
+mods/MrBEasT/characters/jimmyplayerble.json
+mods/MrBEasT/characters/GavnoEbanajaje.json
+mods/MrBEasT/stages/BEST.json
+mods/MrBEasT/stages/BEST.lua
+mods/MrBEasT/images/characters/mrbeast.png
+mods/MrBEasT/images/characters/mrbeast.xml
+mods/MrBEasT/images/characters/K.png
+mods/MrBEasT/images/characters/K.xml
+mods/MrBEasT/characters/obama.json
+mods/MrBEasT/images/characters/obama.png
+mods/MrBEasT/images/characters/obama.xml
+mods/MrBEasT/characters/white.json
+mods/MrBEasT/images/characters/MrWhite_Assets.png
+mods/MrBEasT/images/characters/MrWhite_Assets.xml
+mods/MrBEasT/characters/Jimmy.json
+mods/MrBEasT/characters/Jimmyplayerble.json
+mods/MrBEasT/characters/walter2.json
+mods/MrBEasT/images/characters/walter2.png
+mods/MrBEasT/images/characters/walter2.xml
+mods/MrBEasT/custom_events/Flash Camera.lua
+mods/MrBEasT/images/mbiist/BlueSkys.png
+mods/songs/attack-of-the-mrbeast/Inst.ogg
+mods/songs/attack-of-the-mrbeast/inst.ogg
