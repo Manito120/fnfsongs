@@ -6160,7 +6160,7 @@
 			}
 		],
 		"player2": "nogf",
-		"player3": boom,
+		"player3": null,
 		"song": "not fast enough",
 		"stage": "beachhouse",
 		"needsVoices": true,
