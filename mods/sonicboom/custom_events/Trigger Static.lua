@@ -1,3 +1,0 @@
-function onEvent(name)
-
-end
