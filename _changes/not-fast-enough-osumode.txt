@@ -1,10 +1,5 @@
-mods/data/not-fast-enough/mod.txt
 mods/data/not-fast-enough/not-fast-enough-hard.json
 mods/data/not-fast-enough/script.lua
-mods/sonicboom/stages/beachhouse.json
-mods/sonicboom/stages/beachhouse.lua
-mods/sonicboom/custom_notetypes/Glitch.lua
-mods/sonicboom/sounds/glitchhit.ogg
 mods/songs/not-fast-enough/Voices.ogg
 mods/songs/not-fast-enough/voices.ogg
 mods/songs/not-fast-enough/Inst.ogg
