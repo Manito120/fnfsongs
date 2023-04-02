@@ -1,0 +1,8 @@
+mods/data/killer-tibba/events.json
+mods/data/killer-tibba/killer-tibba-easy.json
+mods/data/killer-tibba/killer-tibba-hard.json
+mods/data/killer-tibba/killer-tibba.json
+mods/songs/killer-tibba/Voices.ogg
+mods/songs/killer-tibba/voices.ogg
+mods/songs/killer-tibba/Inst.ogg
+mods/songs/killer-tibba/inst.ogg
