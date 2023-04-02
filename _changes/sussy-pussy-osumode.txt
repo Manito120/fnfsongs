@@ -1,0 +1,5 @@
+mods/data/sussy-pussy/sussy-pussy.json
+mods/songs/sussy-pussy/Voices.ogg
+mods/songs/sussy-pussy/voices.ogg
+mods/songs/sussy-pussy/Inst.ogg
+mods/songs/sussy-pussy/inst.ogg

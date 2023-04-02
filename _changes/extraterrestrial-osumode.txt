@@ -1,0 +1,5 @@
+mods/data/extraterrestrial/extraterrestrial.json
+mods/songs/extraterrestrial/Voices.ogg
+mods/songs/extraterrestrial/voices.ogg
+mods/songs/extraterrestrial/Inst.ogg
+mods/songs/extraterrestrial/inst.ogg

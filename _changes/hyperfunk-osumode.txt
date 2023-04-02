@@ -1,0 +1,6 @@
+mods/data/hyperfunk/events.json
+mods/data/hyperfunk/hyperfunk.json
+mods/songs/hyperfunk/Voices.ogg
+mods/songs/hyperfunk/voices.ogg
+mods/songs/hyperfunk/Inst.ogg
+mods/songs/hyperfunk/inst.ogg

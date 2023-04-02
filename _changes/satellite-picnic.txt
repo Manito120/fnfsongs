@@ -1,0 +1,5 @@
+mods/data/satellite-picnic/satellite-picnic.json
+mods/songs/satellite-picnic/Voices.ogg
+mods/songs/satellite-picnic/voices.ogg
+mods/songs/satellite-picnic/Inst.ogg
+mods/songs/satellite-picnic/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/promenade/promenade.json
+mods/songs/promenade/Voices.ogg
+mods/songs/promenade/voices.ogg
+mods/songs/promenade/Inst.ogg
+mods/songs/promenade/inst.ogg

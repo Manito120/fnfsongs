@@ -1,0 +1,5 @@
+mods/data/soda-disco-funk/soda-disco-funk.json
+mods/songs/soda-disco-funk/Voices.ogg
+mods/songs/soda-disco-funk/voices.ogg
+mods/songs/soda-disco-funk/Inst.ogg
+mods/songs/soda-disco-funk/inst.ogg

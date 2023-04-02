@@ -1,0 +1,6 @@
+mods/data/mirror-magic/events.json
+mods/data/mirror-magic/mirror-magic.json
+mods/songs/mirror-magic/Voices.ogg
+mods/songs/mirror-magic/voices.ogg
+mods/songs/mirror-magic/Inst.ogg
+mods/songs/mirror-magic/inst.ogg

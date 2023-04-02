@@ -1,0 +1,22 @@
+mods/data/game-over/events.json
+mods/data/game-over/game-over-hard.json
+mods/data/game-over/game-over-hell.json
+mods/data/game-over/mod.txt
+mods/data/game-over/script.lua
+mods/gameover/stages/pcport.json
+mods/gameover/stages/pcport.lua
+mods/gameover/custom_events/Popup.lua
+mods/gameover/custom_events/Enter Pipe.lua
+mods/gameover/custom_events/end Pipe.lua
+mods/gameover/custom_events/Pixel Cam Shake.lua
+mods/gameover/custom_events/Powerup Visuals.lua
+mods/gameover/fonts/smb1.ttf
+mods/gameover/sounds/powerup.ogg
+mods/gameover/sounds/power_down.ogg
+mods/gameover/sounds/countdown.ogg
+mods/gameover/sounds/break.ogg
+mods/gameover/sounds/countdownEnd.ogg
+mods/songs/game-over/Voices.ogg
+mods/songs/game-over/voices.ogg
+mods/songs/game-over/Inst.ogg
+mods/songs/game-over/inst.ogg

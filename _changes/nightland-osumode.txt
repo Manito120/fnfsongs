@@ -1,0 +1,5 @@
+mods/data/nightland/nightland.json
+mods/songs/nightland/Voices.ogg
+mods/songs/nightland/voices.ogg
+mods/songs/nightland/Inst.ogg
+mods/songs/nightland/inst.ogg

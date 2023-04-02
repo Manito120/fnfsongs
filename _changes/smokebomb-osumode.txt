@@ -1,0 +1,5 @@
+mods/data/smokebomb/smokebomb.json
+mods/songs/smokebomb/Voices.ogg
+mods/songs/smokebomb/voices.ogg
+mods/songs/smokebomb/Inst.ogg
+mods/songs/smokebomb/inst.ogg

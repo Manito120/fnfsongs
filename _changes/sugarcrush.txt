@@ -1,0 +1,6 @@
+mods/data/sugarcrush/events.json
+mods/data/sugarcrush/sugarcrush.json
+mods/songs/sugarcrush/Voices.ogg
+mods/songs/sugarcrush/voices.ogg
+mods/songs/sugarcrush/Inst.ogg
+mods/songs/sugarcrush/inst.ogg

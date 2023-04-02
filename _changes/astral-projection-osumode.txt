@@ -1,0 +1,7 @@
+mods/data/astral-projection/astral-projection.json
+mods/data/astral-projection/centernotes.lua
+mods/data/astral-projection/events.json
+mods/songs/astral-projection/Voices.ogg
+mods/songs/astral-projection/voices.ogg
+mods/songs/astral-projection/Inst.ogg
+mods/songs/astral-projection/inst.ogg

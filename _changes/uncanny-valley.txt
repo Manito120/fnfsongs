@@ -1,0 +1,6 @@
+mods/data/uncanny-valley/centernotes.lua
+mods/data/uncanny-valley/uncanny-valley.json
+mods/songs/uncanny-valley/Voices.ogg
+mods/songs/uncanny-valley/voices.ogg
+mods/songs/uncanny-valley/Inst.ogg
+mods/songs/uncanny-valley/inst.ogg

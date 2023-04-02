@@ -1,0 +1,7 @@
+mods/data/fandomania/events.json
+mods/data/fandomania/fandomania.json
+mods/data/fandomania/script.lua
+mods/songs/fandomania/Voices.ogg
+mods/songs/fandomania/voices.ogg
+mods/songs/fandomania/Inst.ogg
+mods/songs/fandomania/inst.ogg

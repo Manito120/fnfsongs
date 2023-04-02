@@ -1,0 +1,5 @@
+mods/data/deep-poems/deep-poems.json
+mods/songs/deep-poems/Voices.ogg
+mods/songs/deep-poems/voices.ogg
+mods/songs/deep-poems/Inst.ogg
+mods/songs/deep-poems/inst.ogg

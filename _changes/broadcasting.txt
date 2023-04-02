@@ -1,0 +1,5 @@
+mods/data/broadcasting/broadcasting.json
+mods/songs/broadcasting/Voices.ogg
+mods/songs/broadcasting/voices.ogg
+mods/songs/broadcasting/Inst.ogg
+mods/songs/broadcasting/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/killer-queen/events.json
+mods/data/killer-queen/killer-queen.json
+mods/songs/killer-queen/Voices.ogg
+mods/songs/killer-queen/voices.ogg
+mods/songs/killer-queen/Inst.ogg
+mods/songs/killer-queen/inst.ogg

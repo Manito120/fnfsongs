@@ -1,0 +1,5 @@
+mods/data/expurgated/expurgated.json
+mods/songs/expurgated/Voices.ogg
+mods/songs/expurgated/voices.ogg
+mods/songs/expurgated/Inst.ogg
+mods/songs/expurgated/inst.ogg

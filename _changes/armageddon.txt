@@ -1,0 +1,5 @@
+mods/data/armageddon/armageddon.json
+mods/songs/armageddon/Voices.ogg
+mods/songs/armageddon/voices.ogg
+mods/songs/armageddon/Inst.ogg
+mods/songs/armageddon/inst.ogg

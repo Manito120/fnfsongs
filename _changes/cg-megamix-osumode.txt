@@ -1,0 +1,5 @@
+mods/data/cg-megamix/cg-megamix.json
+mods/songs/cg-megamix/Voices.ogg
+mods/songs/cg-megamix/voices.ogg
+mods/songs/cg-megamix/Inst.ogg
+mods/songs/cg-megamix/inst.ogg

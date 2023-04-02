@@ -1,0 +1,5 @@
+mods/data/thunderstorm/thunderstorm.json
+mods/songs/thunderstorm/Voices.ogg
+mods/songs/thunderstorm/voices.ogg
+mods/songs/thunderstorm/Inst.ogg
+mods/songs/thunderstorm/inst.ogg
