@@ -1,0 +1,3 @@
+mods/data/terrorita/terrorita.json
+mods/songs/terrorita/Inst.ogg
+mods/songs/terrorita/inst.ogg
