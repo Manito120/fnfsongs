@@ -1,0 +1,7 @@
+mods/data/king-hit/king-hit-easy.json
+mods/data/king-hit/king-hit-hard.json
+mods/data/king-hit/king-hit.json
+mods/songs/king-hit/Voices.ogg
+mods/songs/king-hit/voices.ogg
+mods/songs/king-hit/Inst.ogg
+mods/songs/king-hit/inst.ogg
