@@ -1,0 +1,5 @@
+mods/data/catfight/catfight.json
+mods/songs/catfight/Voices.ogg
+mods/songs/catfight/voices.ogg
+mods/songs/catfight/Inst.ogg
+mods/songs/catfight/inst.ogg

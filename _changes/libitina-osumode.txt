@@ -1,0 +1,5 @@
+mods/data/libitina/libitina.json
+mods/songs/libitina/Voices.ogg
+mods/songs/libitina/voices.ogg
+mods/songs/libitina/Inst.ogg
+mods/songs/libitina/inst.ogg
