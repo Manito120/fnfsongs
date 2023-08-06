@@ -1,7 +1,7 @@
-mods/data/dui/dui-hard.json
-mods/data/dui/dui.json
-mods/data/dui/mod.txt
-mods/songs/dui/Voices.ogg
-mods/songs/dui/voices.ogg
-mods/songs/dui/Inst.ogg
-mods/songs/dui/inst.ogg
+mods/data/infinite/infinite-hard.json
+mods/data/infinite/infinite.json
+mods/data/infinite/mod.txt
+mods/songs/infinite/Voices.ogg
+mods/songs/infinite/voices.ogg
+mods/songs/infinite/Inst.ogg
+mods/songs/infinite/inst.ogg

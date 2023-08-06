@@ -1,0 +1,7 @@
+mods/data/funkpower/funkpower-hard.json
+mods/data/funkpower/funkpower-easy.json
+mods/data/funkpower/funkpower.json
+mods/songs/funkpower/Voices.ogg
+mods/songs/funkpower/voices.ogg
+mods/songs/funkpower/Inst.ogg
+mods/songs/funkpower/inst.ogg
