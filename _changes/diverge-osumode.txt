@@ -1,0 +1,5 @@
+mods/data/diverge/diverge.json
+mods/songs/diverge/Voices.ogg
+mods/songs/diverge/Inst.ogg
+mods/songs/diverge/voices.ogg
+mods/songs/diverge/inst.ogg

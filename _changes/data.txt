@@ -1,4 +1,0 @@
-mods/songs/data/Voices.ogg
-mods/songs/data/Inst.ogg
-mods/songs/data/voices.ogg
-mods/songs/data/inst.ogg

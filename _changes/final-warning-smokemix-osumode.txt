@@ -1,0 +1,5 @@
+mods/data/final-warning-smokemix/final-warning-smokemix.json
+mods/songs/final-warning-smokemix/Voices.ogg
+mods/songs/final-warning-smokemix/Inst.ogg
+mods/songs/final-warning-smokemix/voices.ogg
+mods/songs/final-warning-smokemix/inst.ogg
