@@ -1,0 +1,4 @@
+mods/data/daw-wars-mania/daw-wars-mania-unfair.json
+mods/data/daw-wars-mania/daw-wars-mania-fair.json
+mods/songs/daw-wars-mania/Inst.ogg
+mods/songs/daw-wars-mania/inst.ogg
